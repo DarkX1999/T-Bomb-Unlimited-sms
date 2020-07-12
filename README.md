@@ -101,9 +101,3 @@ Toilet cannot be installed yet. But TBomb does still work.
 
 sudo bash TBomb.sh
 ```
-
-## Demontrative Video:
-
-- Watch Indian Bombing Method <a href="https://youtu.be/9KWkwsr_QGw">here</a><br>
-- Watch International Bombing Method <a href="https://youtu.be/JqsHkyIcnPM">here</a><br>
-
